@@ -6,10 +6,12 @@
 
 
 ## Tecnologias utilizadas
+<ul>
+  <li> NodeJS</li>
+  <li> Express</li>
+  <li> Postgres</li>
+  <li> Uuid</li>
+  <li> Typeorm</li>
+  <li> Typescript</li>
+</ul>
 
-*NodeJS
-*Express
-*Postgres
-*Uuid
-*Typeorm
-*eslint

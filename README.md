@@ -7,9 +7,9 @@
 
 ## Tecnologias utilizadas
 
--NodeJS
--Express
--Postgres
--Uuid
--Typeorm
--eslint
+*NodeJS
+*Express
+*Postgres
+*Uuid
+*Typeorm
+*eslint
